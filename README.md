@@ -3,9 +3,9 @@
 **`Squad Multi - Desenvolvedora Frontend`**
 
 
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in  technology, creative projects, and making a positive impact through innovation.
+- 🌱 I’m currently learning JavaScript, Angular
+- 💞️ I’m looking to collaborate on web development projects, design systems, or anything that helps people through tech!
 - 😄 Pronouns: she/her
 - ⚡ Fun fact:  I have 3 cats, but my dream is to adopt around 20 and start my own little feline gang. 🐱💛🐾
 
